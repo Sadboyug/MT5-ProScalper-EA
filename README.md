@@ -96,4 +96,4 @@ This EA is for educational and backtesting purposes. Always test thoroughly on a
 
 **Version**: 1.0  
 **Last Updated**: 2026-07-04  
-**Author**: Professional Trading Systems
+**Author**: mboowa
